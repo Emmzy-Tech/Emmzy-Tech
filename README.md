@@ -4,10 +4,10 @@
 - 🚀 I respect and understand clients' needs, my goal is to give customers 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
-- 👨‍💻 some of my projects are available at [Tech Agent](https://github.com/techagentng/)
+- 👨‍💻 some of my projects are available at [EmmzyTech](https://github.com/Emmzy-Tech/)
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
-- 📫 Contact me today **techagentng@gmail.com** and **[Join on Skype](https://join.skype.com/invite/fpKS7tllpzbq)**.
+- 📫 Contact me today **emmzytech@gmail.com** and **[Join on Linkedin](https://www.linkedin.com/in/emmanuel-onyenegbutu-3715551b4/)**.
 
 #### CORE SKILLS
 - ⭐ OOP life style
