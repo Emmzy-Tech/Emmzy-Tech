@@ -25,6 +25,11 @@
 - 🚚 Deliver Daily or Weekly results to your Server, Hosting or my Server.
 - ⚡ Be able for Full Time(40 hours / week) Development or Part Time Development.
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmzy-Tech&theme=synthwave)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmzy-Tech&show_icons=true&theme=synthwave)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Emmzy-Tech&theme=synthwave)](https://git.io/streak-stats)
 
 <p align="center">
