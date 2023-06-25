@@ -14,7 +14,7 @@
 - ⭐ ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
 - ⭐ PHP | Laravel | Symfony | CodeIgniter | Yii | Unit test
 - ⭐ Shopify | WordPress | Magento | Drupal
-- ⭐ Python | Django | Flask
+- ⭐ Python | Django 
 - ⭐ HTML | Jquery | Javascript | CSS | Bootstrap | SCSS
 - ⭐ Firebase | Dart | Flutter | React Native
 - ⭐ DevOps | AWS | Docker | Heroku | Git
