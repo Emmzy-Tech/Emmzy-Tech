@@ -7,7 +7,7 @@
 - 👨‍💻 some of my projects are available at [EmmzyTech](https://github.com/Emmzy-Tech/)
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
-- 📫 Contact me today **emmzytech@gmail.com** and **[Join on Linkedin](https://www.linkedin.com/in/emmanuel-onyenegbutu-3715551b4/)**.
+- 📫 Contact me today **emmzytech@gmail.com** and **[Join on Linkedin](https://www.linkedin.com/in/emmanuelonyenegbutu/)**.
 
 #### CORE SKILLS
 - ⭐ OOP life style
